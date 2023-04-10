@@ -120,13 +120,15 @@ Hello, I'm Rohit Sharma, a web developer with 3 years of experience in the field
 - JavaScript
 - React
 - Node.js
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mgwaaxiynjbsesiu3byn2a.on.drv.tw/Rohit's_Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitsharma2003/)
+
 ## Feedback
 
 If you have any feedback, please reach out to us at 28rohitsharmait@gmail.com
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mgwaaxiynjbsesiu3byn2a.on.drv.tw/Rohit's_Portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitsharma2003/)
 
 
