@@ -109,17 +109,14 @@ This project was created by **Rohit Sharma** . If you have any feedback or sugge
 Hello, I'm Rohit Sharma, a web developer with 3 years of experience in the field. I'm passionate about building web applications and creating user-friendly interfaces that make people's lives easier. My main areas of expertise include front-end and web design.
 
 ## Skills
-- C++ Programing
-- C Programing
+- C++ Programming
 - Java
-- Problme Solving
-- Object Oriented Programing
+- Problem Solving
+- Object Oriented Programming
 - HTML
 - CSS
 - CSS Tailwind
 - JavaScript
-- React
-- Node.js
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mgwaaxiynjbsesiu3byn2a.on.drv.tw/Rohit's_Portfolio/)
